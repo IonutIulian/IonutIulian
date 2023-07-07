@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IonutIulian
+- 👋 Hi, I’m  Ionut Iulian
 - 👀 I’m interested in Software Testing, and applying the knowledge gained in the QA Automation Tester course, learn new skills, increase my knowledge and progress in my career.
 - 🌱 I am currently learning and want to expand my knowledge in   Python (Programming Language),
 Test Automation, Database(SQL), API Testing ,Software Testing
